@@ -1,0 +1,4 @@
+node_modules
+
+# Secrets and Environment Variables
+.env
